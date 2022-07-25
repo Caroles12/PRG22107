@@ -21,8 +21,6 @@ Desse modo, no controle de acesso da fechadura estão disponíveis as seguintes 
 Assim, a interface gráfica de controle gerada tem o seguinte perfil:
 
 <img src= "![interfaceagente](C:\Users\carol\Documents\PRG22107\interfaceagente.png)"/>
-![image](https://user-images.githubusercontent.com/40871824/180790885-50982bf3-d3c1-4adf-9967-c71e40ac433d.png)
-
 
 Assim, para guardar todos os registros, foi utilizado o banco de dados SQLite, sendo necessário fazer a cópia da database para o ambiente local.
 
