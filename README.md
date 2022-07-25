@@ -22,5 +22,5 @@ Assim, a interface gráfica de controle gerada tem o seguinte perfil:
 
 <img src= "![interfaceagente](C:\Users\carol\Documents\PRG22107\interfaceagente.png)"/>
 
-Assim, para guardar todos os registros, foi utilizado o banco de dados SQLite, sendo necessário fazer a cópia da database para o ambiente local.
+Para ter controle de todos os registros, foi utilizado o banco de dados SQLite, sendo necessário fazer a cópia da database para o ambiente local.
 
