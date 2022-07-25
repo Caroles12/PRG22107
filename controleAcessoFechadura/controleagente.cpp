@@ -106,7 +106,6 @@ void ControleAgente::getRegistroAcesso(){
                    << "Porta Utilizada" << ": " << "" << porta<< "\n ";
 
             agentFile.close();
-            qDebug() << "Writing finished";
         }
     }
     QMessageBox::about(this, "Registro de acessos", "Registro Gerado");
